@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hi, I'm Wiltomar DUARTE, I'm a Software Engineer and Full Cycle Developer! </h2>
+  <h2>Hi, I'm Wiltomar DUARTE, I'm a Software Engineer and Full Cycle Developer!</h2>
   <br>
 </div>
 
