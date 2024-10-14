@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm Wiltomar DUARTE, I'm a Software Engineer and Full Cycle Developer!</h2>
+  <h2>Hi, I'm Jose Wiltomar DUARTE, I'm a Software Engineer and Full Cycle Developer!</h2>
   <br>
 </div>
 
@@ -18,7 +18,7 @@
   <img align="center" alt="Wiltomar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wiltomar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wiltomar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wiltomar-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Wiltomar-Go" height="30" width="40" src="https://github.com/rfyiamcool/golang_logo/blob/master/svg/golang_3.svg">
   <img align="center" alt="Wiltomar-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Wiltomar-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Wiltomar-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
